@@ -30,6 +30,11 @@ Recepción e interpretación de imagenes. El modelo identifica el producto y gen
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Telegram Bot API](https://img.shields.io/badge/Telegram-Bot%20API-blue.svg)](https://core.telegram.org/bots/api)
+[![Groq](https://img.shields.io/badge/Groq-AI-FF6600?style=flat&logo=groq&logoColor=white)](https://groq.com/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-FFD21E?style=flat)](https://huggingface.co/)
+[![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-4B8BBE?style=flat)](https://github.com)
+
+Python 3.8+ | Telegram Bot API | Groq AI | 🤗 Hugging Face | NLP Sentiment Analysis
 
 ## 📋 Descripción del proyecto 
 
