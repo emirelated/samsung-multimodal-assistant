@@ -62,7 +62,7 @@ Asistente Conversacional Inteligente (ACI) diseñado para Samsung, capaz de ofre
 1. **Clonar el repositorio**
 ```bash
 git clone https://github.com/tu-usuario/samsung-project.git
-cd samsung-project
+cd samsung-multimodal-assistant
 ```
 
 2. **Crear entorno virtual**
